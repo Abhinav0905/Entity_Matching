@@ -20,7 +20,7 @@ Getting this right means better search results, accurate price comparisons, and 
 
 ## 🧠 The Smart Approach
 
-This project doesn't just use one technique—it combines the best of both worlds:
+This project doesn't just use one technique - it combines the best of both worlds:
 
 ### 1. **Traditional Machine Learning Features** 🔧
 We extract meaningful features like:
@@ -36,13 +36,13 @@ We leverage state-of-the-art transformers:
 - **Semantic Similarity**: Goes beyond keywords to understand what products actually are
 
 ### 3. **Ensemble Methods** 🎭
-We don't pick just one model—we test multiple classifiers:
+We don't pick just one model - we test multiple classifiers:
 - Random Forest
 - XGBoost
 - Gradient Boosting
 - Logistic Regression
 
-The best performer wins! (Spoiler: Usually gets ~88%+ F1-score 🎉)
+The best performer wins! (Spoiler: Usually gets approximately 88%+ F1-score 🎉)
 
 ## 📊 The Dataset
 
@@ -57,7 +57,7 @@ The project works with real-world product data:
 **candidate_pairs.csv**: Labeled pairs of products
 - Amazon ID, Google ID, and whether they match (1) or not (0)
 
-The dataset contains over 120,000 product pairs with about 8% positive matches—a realistic imbalanced scenario!
+The dataset contains over 120,000 product pairs with about 8% positive matches - a realistic imbalanced scenario!
 
 ## 🛠️ Technologies Used
 
@@ -119,7 +119,7 @@ jupyter notebook advanced_entity_matching.ipynb
 
 The hybrid approach achieves impressive results:
 
-- **F1-Score**: ~88%+ (depending on the model)
+- **F1-Score**: Approximately 88%+ (depending on the model)
 - **Precision**: High accuracy when predicting matches
 - **Recall**: Good coverage of actual matches
 
