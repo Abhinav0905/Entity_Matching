@@ -1,4 +1,4 @@
-# 🔍 Entity Matching with Deep Learning
+🔍 Entity Matching with Deep Learning
 
 > Solving the age-old problem of "Is this the same product?" using AI magic ✨
 
@@ -202,3 +202,5 @@ Have questions? Feel free to open an issue or reach out!
 **Made with ❤️ and a lot of ☕ by data science enthusiasts**
 
 *Remember: Every great product recommendation starts with great entity matching!* 🎯
+=======
+# Entity_Matching
